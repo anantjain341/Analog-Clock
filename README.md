@@ -1,4 +1,4 @@
 # Analog-Clock
 
-Hoisted link
+Hosted link
 https://anantjain341.github.io/Analog-Clock/
